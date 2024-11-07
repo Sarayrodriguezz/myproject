@@ -1,0 +1,13 @@
+body{margin: 0%;}
+header{text-align: center;}
+section{background-color: gray; padding: 60px;}
+div.header{padding: 15px;}
+div.header h2{margin: 0%; font-size: 20px;}
+.box{
+    background: white; width: 300px; margin: auto;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    border: 1px solid #EDEEEE;
+}
+img{width: 100%;}
+div.description{padding: 15px;}
